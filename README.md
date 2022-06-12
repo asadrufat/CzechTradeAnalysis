@@ -1,1 +1,4 @@
-# CzechTradeAnalysis
+# Analysis of Czech Trade Structure Using the Zipf’s Law
+
+The Revealed Comparative Advantage (RCA) has been a cornerstone for
+cross-country trade analyses. Corresponding indices that quantify this phenomenon have long been subject to studies testing how far they are distributed from normal distribution. This thesis analyzes RCA indices alongside the Zipf’s Law, which asserts that data points are linearly distributed with a negative relationship to their ranks. Trade data, covering 1998-2020, from the Czech Republic are initially utilized in a particular model. In this case, it is documented that RCA indices largely follow the Zipf’s Law in log-log scale. Regression coefficients from this model, specifying exponent parameters of the distribution, are employed alongside a set of economic indicators in an advanced time series model, namely Vector Autoregression (VAR), to derive the economic inference of so-called power law exponents. The model reveals certain economic interpretations, including the fact that economic shocks might reduce comparative advantage of a country over a commodity.
