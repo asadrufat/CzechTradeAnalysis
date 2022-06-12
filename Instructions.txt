@@ -1,0 +1,11 @@
+Visualizations in Section 3.2 are calculated in Python through 
+the corresponding .ipynb file. It basically uses the annual data
+assembled in "Data_Visualization.xlsx" file.
+
+The empirical part is completed in R. The first model is investigated
+in "Thesis_Part_1.R" file using the "RCAS.xlsx" data.
+
+Results from the first model are stored in a separate file called
+"Exponent_Data.xlsx" which is further used in second econometric model 
+(Vector Autoregression) together with a file for economic data stored
+in "Economic_Data.xlsx". The analysis is covered in "Thesis_Part_2.R"
